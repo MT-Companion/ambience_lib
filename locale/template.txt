@@ -1,0 +1,24 @@
+# textdomain: ambience_lib
+
+## ../hud.lua
+no ambience=
+[ambience_lib] Failed to create HUD.=
+by @1=
+
+## ../init.lua
+Unknown Artist=
+White Noise=
+Dave Null=
+Ocean Noise=
+Byte Commander=
+View or set the current ambience=
+Currently playing @1 by @1=
+No ambiences are playing.=
+Currently playing @1 by @2 for @3=
+No ambiences are playing for @1.=
+Successfully set ambience to @1.=
+Failed to set ambience @1. (@2)=
+Successfully set ambience to @1 for @2.=
+Failed to set ambience @1 for @2. (@3)=
+Ambience stopped.=
+Ambience stopped for @1.=

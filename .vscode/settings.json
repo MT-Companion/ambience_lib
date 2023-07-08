@@ -1,0 +1,7 @@
+{
+    "Lua.diagnostics.globals": [
+        "ambience_lib",
+        "minetest",
+        "chatcmdbuilder"
+    ]
+}
